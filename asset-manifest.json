@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/createhost/static/css/main.7e67483f.css",
+    "main.js": "/createhost/static/js/main.d7ebc21e.js",
+    "static/media/resume.svg": "/createhost/static/media/resume.747b0dd9d4a36a4fe054ab84b590ebfb.svg",
+    "index.html": "/createhost/index.html",
+    "main.7e67483f.css.map": "/createhost/static/css/main.7e67483f.css.map",
+    "main.d7ebc21e.js.map": "/createhost/static/js/main.d7ebc21e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e67483f.css",
+    "static/js/main.d7ebc21e.js"
+  ]
+}
